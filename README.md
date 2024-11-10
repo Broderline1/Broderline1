@@ -24,6 +24,12 @@
 
 <br clear="both">
 
+<img align="left" height="550" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-313.gif"  />
+
+###
+
+<br clear="both">
+
 <h2 align="left">Yo trabajo con estas tecnologias :)</h2>
 
 ###
@@ -49,11 +55,5 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="45" alt="xamarin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="250" src="https://www.whycatwhy.com/wp-content/uploads/2016/05/cats-pattycake.gif"  />
 
 ###
