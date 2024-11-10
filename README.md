@@ -1,4 +1,5 @@
 <br clear="both">
+
 <h2 align="left">Sobre mi</h2>
 
 ###
@@ -6,6 +7,18 @@
 <br clear="both">
 
 <p align="left">✨ Creando proyectos desde 2023 😎<br>📚 Actualmente: Estudio y mejoro para ser el mejor.<br>🎯 Metas: Mejorar y aprender mas >:D<br>🎲Pasatiempos: Arreglar bugs, jugar y escuchar musica.</p>
+
+###
+
+<h2 align="left">Escucho esta musica para mantenerme al 100%</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31eh65iasrokfq6dxjrxlwsoivja">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eh65iasrokfq6dxjrxlwsoivja&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -41,14 +54,6 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://media.tenor.com/DKsLzeOpB60AAAAM/cat-looking-away.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31eh65iasrokfq6dxjrxlwsoivja">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eh65iasrokfq6dxjrxlwsoivja&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="250" src="https://www.whycatwhy.com/wp-content/uploads/2016/05/cats-pattycake.gif"  />
 
 ###
