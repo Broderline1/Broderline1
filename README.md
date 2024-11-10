@@ -1,11 +1,4 @@
 <br clear="both">
-
-<h2 align="left">Omar Campos</h2>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Sobre mi</h2>
 
 ###
