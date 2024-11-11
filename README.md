@@ -14,17 +14,17 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="300" src="https://i.gifer.com/origin/c4/c4dd26f44f4012bc24dfeeb778473253_w200.gif"  />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31eh65iasrokfq6dxjrxlwsoivja">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eh65iasrokfq6dxjrxlwsoivja&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="550" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-313.gif"  />
 
 ###
 
