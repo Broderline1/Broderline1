@@ -14,6 +14,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Redes Sociales</h2>
 
 ###
@@ -29,6 +31,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Musica que escucho casi a diario:</h2>
 
 ###
@@ -42,6 +46,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="left" height="200" src="https://media.tenor.com/4DiFwww6548AAAAj/kitty.gif"  />
 
@@ -82,6 +88,8 @@
 <h2 align="left">Actividad en GitHub:</h2>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Broderline1/Broderline1/output/pacman-contribution-graph-dark.svg">
